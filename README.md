@@ -1,4 +1,4 @@
-# 🏥 AI-Powered Patient Triage & Risk Assessment Assistant
+# AI-Powered Patient Triage & Risk Assessment Assistant
 
 An AI-powered healthcare triage system that analyzes patient symptoms, predicts medical urgency, applies deterministic medical guardrails, and retrieves evidence-based medical recommendations using Retrieval-Augmented Generation (RAG).
 
@@ -6,22 +6,22 @@ The system supports both **structured patient information** and **free-text symp
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Structured patient risk prediction using Machine Learning
-- ✅ Free-text symptom analysis using Groq Llama-3.1-8B-Instant
-- ✅ Automatic clinical feature extraction
-- ✅ Random Forest urgency prediction
-- ✅ Deterministic medical guardrails for patient safety
-- ✅ Retrieval-Augmented Generation (RAG) for guideline-based recommendations
-- ✅ FastAPI backend with REST APIs
-- ✅ Interactive frontend built with HTML, CSS, and JavaScript
-- ✅ Input validation and prompt injection protection
-- ✅ Unit testing using Pytest
+- Structured patient risk prediction using Machine Learning
+- Free-text symptom analysis using Groq Llama-3.1-8B-Instant
+- Automatic clinical feature extraction
+- Random Forest urgency prediction
+- Deterministic medical guardrails for patient safety
+- Retrieval-Augmented Generation (RAG) for guideline-based recommendations
+- FastAPI backend with REST APIs
+- Interactive frontend built with HTML, CSS, and JavaScript
+- Input validation and prompt injection protection
+- Unit testing using Pytest
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Hospitals and telehealth platforms receive thousands of patient symptom descriptions every day. Since every patient typically enters the same waiting queue, critically ill patients may experience delays in receiving medical attention.
 
@@ -73,7 +73,7 @@ The system is designed to **assist healthcare professionals** rather than replac
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 Final-Mini-Project/
@@ -103,7 +103,7 @@ Final-Mini-Project/
 
 ---
 
-# ⚙️ System Architecture
+# System Architecture
 
 ```
 Patient Input
@@ -136,7 +136,7 @@ Frontend Display
 
 ---
 
-# 🤖 Machine Learning Model
+# Machine Learning Model
 
 The patient urgency prediction model was trained using a synthetic healthcare dataset.
 
@@ -163,7 +163,7 @@ Urgency Levels:
 
 ---
 
-# 🧠 AI Pipeline
+# AI Pipeline
 
 The free-text triage pipeline consists of:
 
@@ -204,7 +204,7 @@ Recommendation Generation
 
 ---
 
-# 🛡️ Medical Guardrails
+# Medical Guardrails
 
 To improve patient safety, deterministic medical rules override machine learning predictions whenever emergency conditions are detected.
 
@@ -221,7 +221,7 @@ Examples include:
 
 ---
 
-# 🌐 REST API Endpoints
+# REST API Endpoints
 
 ## Structured Prediction
 
@@ -248,7 +248,7 @@ Accepts free-text symptom descriptions and returns:
 
 ---
 
-# 🖥️ Frontend
+# Frontend
 
 The web application includes:
 
@@ -265,7 +265,7 @@ The frontend communicates with the FastAPI backend using the Fetch API.
 
 ---
 
-# 🧪 Running the Project
+# Running the Project
 
 ## 1. Clone Repository
 
@@ -285,14 +285,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Linux / macOS
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
 
 ## 3. Install Dependencies
 
@@ -347,6 +340,4 @@ Open the `frontend/index.html` file in your browser.
 ---
 
 
-
----
 
