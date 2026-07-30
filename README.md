@@ -38,7 +38,7 @@ The system is designed to **assist healthcare professionals** rather than replac
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Backend
 
@@ -178,7 +178,7 @@ The free-text triage pipeline consists of:
 
 ---
 
-# 📚 Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 
 The system retrieves relevant medical guidelines from a FAISS vector database.
 
