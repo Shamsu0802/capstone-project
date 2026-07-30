@@ -1,0 +1,48 @@
+body{
+    font-family:Arial;
+    background:#f5f5f5;
+    margin:30px;
+}
+
+.container{
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    width:700px;
+    margin:auto;
+}
+
+input,select{
+    width:100%;
+    padding:10px;
+    margin-top:8px;
+    margin-bottom:15px;
+}
+
+button{
+    padding:10px 20px;
+    background:#0077cc;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#005fa3;
+}
+
+.symptom{
+    border:1px solid gray;
+    padding:8px;
+    margin:4px;
+    display:inline-block;
+    cursor:pointer;
+}
+
+.selected{
+    background:#d4edda;
+}
+
+.section{
+    margin-top:25px;
+}

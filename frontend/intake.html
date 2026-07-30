@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Intake</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🤖 AI Patient Intake</h1>
+
+    <a href="index.html">← Back to Home</a>
+
+    <hr>
+
+    <h2>Describe Patient Symptoms</h2>
+
+    <textarea
+        id="patient_text"
+        rows="10"
+        placeholder="Example: I am a 65-year-old male. I have chest pain and shortness of breath for the last 30 minutes."></textarea>
+
+    <br><br>
+
+    <button onclick="analyzePatient()">
+
+        Analyze Patient
+
+    </button>
+
+    <hr>
+
+    <h2>Urgency</h2>
+
+    <div id="urgency">
+
+        Waiting for analysis...
+
+    </div>
+
+    <hr>
+
+    <h2>Extracted Features</h2>
+
+    <pre id="features"></pre>
+
+    <hr>
+
+    <h2>Recommendation</h2>
+
+    <div id="recommendation"></div>
+
+    <hr>
+
+    <h2>Guideline</h2>
+
+    <div id="guideline"></div>
+
+    <hr>
+
+    <h2>Source</h2>
+
+    <div id="source"></div>
+
+</div>
+
+<script src="js/intake.js"></script>
+
+</body>
+
+</html>

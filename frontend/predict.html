@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Structured Prediction</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📋 Structured Patient Prediction</h1>
+
+    <a href="index.html">← Back to Home</a>
+
+    <hr>
+
+    <!-- Patient Information -->
+
+    <h2>Patient Information</h2>
+
+    <label>Age</label>
+
+    <input
+        type="number"
+        id="age"
+        placeholder="Enter patient age">
+
+    <label>Gender</label>
+
+    <select id="gender">
+        <option value="">Select Gender</option>
+        <option value="1">Male</option>
+        <option value="0">Female</option>
+    </select>
+
+    <hr>
+
+    <!-- Search Symptoms -->
+
+    <h2>Symptoms</h2>
+
+    <input
+        type="text"
+        id="search"
+        placeholder="🔍 Search symptoms..."
+        onkeyup="searchSymptoms()">
+
+    <div id="symptomList"></div>
+
+    <hr>
+
+    <!-- Selected Symptoms -->
+
+    <h2>Selected Symptoms</h2>
+
+    <div id="selectedSymptoms"></div>
+
+    <hr>
+
+    <!-- Medical History -->
+
+    <h2>Medical History (Optional)</h2>
+
+    <label>
+        <input type="checkbox" id="diabetes">
+        Diabetes
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="hypertension">
+        Hypertension
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="asthma">
+        Asthma
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="copd">
+        COPD
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="heart_disease">
+        Heart Disease
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="kidney_disease">
+        Kidney Disease
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="stroke_history">
+        Stroke History
+    </label>
+
+    <br>
+
+    <label>
+        <input type="checkbox" id="pregnancy">
+        Pregnancy
+    </label>
+
+    <hr>
+
+    <!-- Optional Vitals -->
+
+    <h2>Vitals (Optional)</h2>
+
+    <label>Heart Rate</label>
+
+    <input
+        type="number"
+        id="heart_rate"
+        placeholder="Example: 85">
+
+    <label>Systolic Blood Pressure</label>
+
+    <input
+        type="number"
+        id="systolic_bp"
+        placeholder="Example: 120">
+
+    <label>Oxygen Level (%)</label>
+
+    <input
+        type="number"
+        id="oxygen_level"
+        placeholder="Example: 98">
+
+    <label>Temperature (°C)</label>
+
+    <input
+        type="number"
+        step="0.1"
+        id="temperature"
+        placeholder="Example: 37.0">
+
+    <label>Respiratory Rate</label>
+
+    <input
+        type="number"
+        id="respiratory_rate"
+        placeholder="Example: 18">
+
+    <label>Symptom Duration (Hours)</label>
+
+    <input
+        type="number"
+        id="symptom_duration_hours"
+        placeholder="Example: 12">
+
+    <br><br>
+
+    <button onclick="predict()">
+        Predict Urgency
+    </button>
+
+    <hr>
+
+    <!-- Prediction Result -->
+
+    <h2>Prediction Result</h2>
+
+    <div id="result">
+
+        <p>Urgency will appear here.</p>
+
+    </div>
+
+</div>
+
+<script src="js/symptoms.js"></script>
+<script src="js/predict.js"></script>
+
+</body>
+</html>
