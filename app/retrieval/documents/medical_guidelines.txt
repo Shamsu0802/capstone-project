@@ -1,0 +1,237 @@
+CHEST PAIN
+Chest pain with shortness of breath may indicate a heart attack or another serious cardiac condition. Immediate emergency medical evaluation is recommended.
+SOURCE: American Heart Association
+
+------------------------------------------------
+
+STROKE
+Facial drooping, slurred speech, or limb weakness are warning signs of stroke. Seek emergency medical care immediately.
+SOURCE: American Stroke Association
+
+------------------------------------------------
+
+LOW OXYGEN
+Oxygen saturation below 90% requires urgent medical evaluation and oxygen therapy if necessary.
+SOURCE: World Health Organization (WHO)
+
+------------------------------------------------
+
+HIGH FEVER
+High fever accompanied by confusion or seizures requires immediate medical assessment.
+SOURCE: World Health Organization (WHO)
+
+------------------------------------------------
+
+ABDOMINAL PAIN
+Persistent severe abdominal pain with vomiting or blood in the stool requires urgent medical evaluation.
+SOURCE: NICE Guideline
+
+------------------------------------------------
+
+DIABETES
+Patients with diabetes experiencing confusion, dizziness, or persistent vomiting should seek medical evaluation promptly.
+SOURCE: American Diabetes Association
+
+------------------------------------------------
+
+SEVERE BLEEDING
+Severe bleeding requires immediate first aid and emergency medical attention. Apply direct pressure to the wound until help arrives.
+SOURCE: Red Cross First Aid Guidelines
+
+------------------------------------------------
+
+PREGNANCY BLEEDING
+Bleeding during pregnancy should always be evaluated immediately by a healthcare professional.
+SOURCE: ACOG
+
+------------------------------------------------
+
+ASTHMA ATTACK
+Asthma with wheezing and shortness of breath requires use of a rescue inhaler and immediate medical attention if symptoms persist.
+SOURCE: Global Initiative for Asthma (GINA)
+
+------------------------------------------------
+
+COPD EXACERBATION
+Patients with COPD experiencing worsening breathlessness should receive prompt medical evaluation.
+SOURCE: GOLD COPD Guidelines
+
+------------------------------------------------
+
+HEART DISEASE
+Patients with known heart disease who develop chest pain or breathlessness should seek emergency care immediately.
+SOURCE: American College of Cardiology
+
+------------------------------------------------
+
+SEIZURE
+A seizure or sudden loss of consciousness requires immediate emergency evaluation to identify the underlying cause.
+SOURCE: Epilepsy Foundation
+
+------------------------------------------------
+
+HEAD INJURY
+Loss of consciousness, repeated vomiting, or confusion following a head injury requires emergency medical assessment.
+SOURCE: CDC Head Injury Guideline
+
+------------------------------------------------
+
+SEVERE HEADACHE
+A sudden severe headache accompanied by neurological symptoms may indicate a stroke or brain hemorrhage and requires emergency care.
+SOURCE: American Academy of Neurology
+
+------------------------------------------------
+
+ALLERGIC REACTION
+Swollen tongue or swollen throat may indicate a severe allergic reaction (anaphylaxis). Seek emergency medical treatment immediately.
+SOURCE: World Allergy Organization
+
+------------------------------------------------
+
+BURNS
+Large, deep, or electrical burns require immediate emergency medical evaluation.
+SOURCE: American Burn Association
+
+------------------------------------------------
+
+FRACTURE
+A suspected fracture with severe pain, swelling, or deformity should be immobilized and evaluated promptly.
+SOURCE: American Academy of Orthopaedic Surgeons
+
+------------------------------------------------
+
+KIDNEY DISEASE
+Patients with kidney disease who develop severe swelling, breathing difficulty, or confusion require urgent medical evaluation.
+SOURCE: National Kidney Foundation
+
+------------------------------------------------
+
+SUICIDAL THOUGHTS
+Any suicidal thoughts require immediate assessment by a mental health professional or emergency services.
+SOURCE: World Health Organization (WHO)
+
+------------------------------------------------
+
+RESPIRATORY INFECTION
+Patients with fever, cough, sore throat, and difficulty breathing should receive medical evaluation, especially if symptoms worsen or oxygen levels decrease.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+DEHYDRATION
+Persistent vomiting, diarrhea, dizziness, or signs of dehydration require increased fluid intake and prompt medical evaluation if symptoms are severe or persistent.
+SOURCE: World Health Organization (WHO)
+
+------------------------------------------------
+
+FOOD POISONING
+Persistent vomiting, diarrhea, severe abdominal pain, or signs of dehydration after eating contaminated food should be evaluated by a healthcare professional.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+PNEUMONIA
+Persistent fever, cough, shortness of breath, or chest discomfort may require evaluation for a lower respiratory infection.
+SOURCE: American Lung Association
+
+------------------------------------------------
+
+INFLUENZA
+Fever, cough, sore throat, and body aches lasting several days should be medically evaluated, especially in older adults or individuals with chronic illness.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+COVID-19
+Patients with fever, cough, shortness of breath, or low oxygen levels should receive appropriate medical evaluation and follow current public health recommendations.
+SOURCE: World Health Organization (WHO)
+
+------------------------------------------------
+
+BRONCHITIS
+Persistent cough with wheezing or breathing difficulty should be evaluated by a healthcare professional, especially if symptoms worsen.
+SOURCE: American Lung Association
+
+------------------------------------------------
+
+HYPERTENSIVE EMERGENCY
+Very high blood pressure accompanied by severe headache, chest pain, confusion, or neurological symptoms requires emergency medical evaluation.
+SOURCE: American Heart Association
+
+------------------------------------------------
+
+PALPITATIONS
+Rapid or irregular heartbeat associated with dizziness, chest pain, or fainting requires prompt medical assessment.
+SOURCE: American College of Cardiology
+
+------------------------------------------------
+
+FAINTING
+Sudden loss of consciousness should be medically evaluated to determine the underlying cause, particularly if associated with chest pain or neurological symptoms.
+SOURCE: Mayo Clinic
+
+------------------------------------------------
+
+MIGRAINE
+A severe headache with nausea or vomiting should be medically evaluated, particularly if it is the first occurrence or significantly different from previous headaches.
+SOURCE: American Migraine Foundation
+
+------------------------------------------------
+
+VERTIGO
+Persistent dizziness affecting balance or accompanied by neurological symptoms requires medical assessment.
+SOURCE: National Institute on Deafness and Other Communication Disorders
+
+------------------------------------------------
+
+CONSTIPATION
+Persistent abdominal discomfort with prolonged constipation or vomiting should be evaluated by a healthcare professional.
+SOURCE: NICE Guideline
+
+------------------------------------------------
+
+CELLULITIS
+A rapidly spreading skin rash with swelling, pain, or fever requires prompt medical evaluation.
+SOURCE: Infectious Diseases Society of America
+
+------------------------------------------------
+
+INSECT BITE
+An insect bite causing severe swelling, difficulty breathing, or widespread rash requires immediate medical attention.
+SOURCE: American Academy of Allergy, Asthma & Immunology
+
+------------------------------------------------
+
+ANIMAL BITE
+Animal bites should be cleaned immediately and evaluated by a healthcare professional because of the risk of infection or rabies exposure.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+EYE INJURY
+Sudden vision loss, severe eye pain, or chemical exposure to the eye requires immediate emergency medical evaluation.
+SOURCE: American Academy of Ophthalmology
+
+------------------------------------------------
+
+DENTAL EMERGENCY
+Severe dental pain with facial swelling, bleeding, or fever requires prompt dental or medical evaluation.
+SOURCE: American Dental Association
+
+------------------------------------------------
+
+HEAT STROKE
+High body temperature, confusion, dizziness, or loss of consciousness after heat exposure requires immediate emergency treatment.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+HYPOTHERMIA
+Low body temperature accompanied by confusion, excessive shivering, or loss of consciousness requires emergency medical evaluation.
+SOURCE: Centers for Disease Control and Prevention (CDC)
+
+------------------------------------------------
+
+PANIC ATTACK
+Sudden chest tightness, rapid heartbeat, dizziness, or shortness of breath should be medically evaluated to rule out serious physical conditions before considering anxiety-related causes.
+SOURCE: National Institute of Mental Health
